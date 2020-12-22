@@ -1,0 +1,53 @@
+body {
+    color: #333;
+    text-align: center;
+    font-family: cursive;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    border: 2px solid #000;
+    margin: 100px auto;
+}
+
+#container h1 {
+    font-size: 20px;
+}
+
+#cabecera {
+    font-size: 40px;
+    background: darkblue;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0, 5cm;
+}
+
+#cabecera #logo {
+    width: 40px;
+    vertical-align: middle;
+}
+
+#tagline {
+    padding: 0 0 0 1cm;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#post {
+    background: white;
+    padding: 1cm;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
+}
